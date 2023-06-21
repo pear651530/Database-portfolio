@@ -8,13 +8,13 @@
 ![](/Screenshot/資料庫9.jpg)
 
 資料庫使用xampp建立網頁伺服器
-- 使用Session做登入控制
 - 運用多個Trigger做資料處理的檢查
 
 ## 網頁介紹
 - 使用Bootstrap調整布局
 - 使用ajax檢查是否連接到資料庫
 - 使用RWD根據畫面大小改變圖片大小
+- 使用Session做登入控制
 
 ## 其他
 Screenshot資料夾裡有作品部分截圖
